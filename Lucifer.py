@@ -112,10 +112,10 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await idk.start()
             botme = await idk.get_me()
-            await idk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await idk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await idk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await idk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
+            await idk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await idk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await idk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await idk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -138,10 +138,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 2")
             await ydk.start()
-            await ydk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await ydk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await ydk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await ydk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
+            await ydk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await ydk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await ydk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await ydk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
             botme = await ydk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -165,10 +165,10 @@ async def start_yukki():
         try:
             print("Booting Up The Client 3")
             await  wdk.start()
-            await wdk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await wdk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await wdk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await wdk(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await wdk(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
             botme = await wdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -733,10 +733,10 @@ async def start_yukki():
             print("Booting Up The Client 24")
             await raj.start()
             botme = await raj.get_me()
-            await raj(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await raj(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await raj(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await raj(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
+            await raj(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await raj(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await raj(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await raj(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -759,10 +759,10 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await put.start()
             botme = await put.get_me()
-            await put(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await put(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await put(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
-            await put(functions.channels.JoinChannelRequest(channel=" @Baapjiiiiiiiiii"))
+            await put(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await put(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await put(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
+            await put(functions.channels.JoinChannelRequest(channel=" @SPAMBOT69"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -1264,7 +1264,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ᗩᗷᗷ ᗷᗩᗩᑭ ᒍᏆᏆ ᑕᕼᝪᗞᗴᏀᗩ ᎢᑌᏃᗴ ᗩᗩᒍᗩ ᗷᗴᎢᗩ ᗩᗷᗷ 🔥🥵"
+            text = "ᗩᗷᗷ KARTIKAY OP ᑕᕼᝪᗞᗴᏀᗩ ᎢᑌᏃᗴ ᗩᗩᒍᗩ ᗷᗴᎢᗩ ᗩᗷᗷ 🔥🥵"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1274,7 +1274,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ᗩᗷᗷ ᗷᗩᗩᑭ ᒍᏆᏆ ᑕᕼᝪᗞᗴᏀᗩ ᎢᑌᏃᗴ ᗩᗩᒍᗩ ᗷᗴᎢᗩ ᗩᗷᗷ 🔥🥵"
+            text = "ᗩᗷᗷ KARTIKAYOPᏆ ᑕᕼᝪᗞᗴᏀᗩ ᎢᑌᏃᗴ ᗩᗩᒍᗩ ᗷᗴᎢᗩ ᗩᗷᗷ 🔥🥵"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1483,7 +1483,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = " ⚔️ 🇧 🇦 🇦 🇵  🇯 🇮 🇮 Տᑭᗩᗰ ᗷOT ⚔️\n\nᑌTIᒪ ᑕOᗰᗰᗩᑎᗪՏ:\n.ping\n.restart\n\nᑌՏᗴᖇᗷOT ᑕOᗰᗰᗩᑎᗪՏ:\n.bio\n.join\n.pjoin\n.leave\n\nՏᑭᗩᗰ ᑕOᗰᗰᗩᑎᗪՏ:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
+       text = " ⚔️ KARTIKAYOP Տᑭᗩᗰ ᗷOT ⚔️\n\nᑌTIᒪ ᑕOᗰᗰᗩᑎᗪՏ:\n.ping\n.restart\n\nᑌՏᗴᖇᗷOT ᑕOᗰᗰᗩᑎᗪՏ:\n.bio\n.join\n.pjoin\n.leave\n\nՏᑭᗩᗰ ᑕOᗰᗰᗩᑎᗪՏ:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -1491,11 +1491,11 @@ async def help(e):
     
         
 text = """
-CONGRATS🥳🥳🥳 YOUR FASTEST, SMOOTHEST AND POWERFUL ʙᴀᴀᴘ ᴊɪɪ sᴘᴀᴍʙᴏᴛ DEPLOYED SUCCESSFULLY """
+CONGRATS🥳🥳🥳 YOUR FASTEST, SMOOTHEST AND POWERFUL KARTIKAYOP sᴘᴀᴍʙᴏᴛ DEPLOYED SUCCESSFULLY """
 
 print(text)
 print("")
-print("YOᑌᖇ 🇧 🇦 🇦 🇵  🇯 🇮 🇮  Տᑭᗩᗰ ᗷOT ᗪᗴᑭᒪOY !!")
+print("YOᑌᖇ KARTIKAYOP  Տᑭᗩᗰ ᗷOT ᗪᗴᑭᒪOY !!")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
