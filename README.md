@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <b> 🇧 🇦 🇦 🇵  🇯 🇮 🇮  🇸 🇵 🇦 🇲  🇧 🇴 🇹 🇸 </b>
+  <b> KᗩᖇTIKᗩY 🇧 🇴 🇹 🇸 </b>
 
 </h1>
 
@@ -12,11 +12,11 @@
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/50cd1ef8bb832422356e1.jpg" alt="🅱🅰🅰🅿 🅹🅸🅸  SPAMBOT">
+  <img src="https://telegra.ph/file/62d4e682210a437c4527b.jpg" alt="KARTIKAY  SPAMBOT">
 
 </p>
 
 ## ⚡ ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKU
 
-[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/baapjiiiiii/Baapjiispam25)
+[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kartikay22)
 
